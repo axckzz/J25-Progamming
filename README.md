@@ -7,5 +7,5 @@
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/14/Quincy_Promes_in_2022.jpg)
 
 ## List of Classmates
-- [Albert Renart](https://albertrenart/J25-programming)
+- [Albert Renart](https://github.com/albertrenart/J25-programming)
 - [SpaikyJordi](https://github.com/Spaikyjordi/J25-programming-jordi)
