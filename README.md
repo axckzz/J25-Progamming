@@ -9,3 +9,9 @@
 ## List of Classmates
 - [Albert Renart](https://github.com/albertrenart/J25-programming)
 - [SpaikyJordi](https://github.com/Spaikyjordi/J25-programming-jordi)
+
+
+| Syntax | Lots of funny things |
+| ----------- | ----------- |
+| Repository | Our Repository |
+| Hello | Thanks for everything |
