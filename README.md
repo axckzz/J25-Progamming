@@ -4,4 +4,4 @@
 - [David Prieto](https://github.com/d-prieto/J25-Programming)
 
 ## Images
-![alt text] (https://www.mooc.org/hubfs/applications-of-computer-programming.jpg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/1/14/Quincy_Promes_in_2022.jpg)
