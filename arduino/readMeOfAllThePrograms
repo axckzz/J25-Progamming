@@ -26,4 +26,7 @@ and maintainability. The loop continuously spells "ALVARO" in Morse code using t
 FunctionalProgramming3: This program enhances code reusability by introducing a function (morseBlink) to handle the blinking logic. 
 Each letter function then calls this common function with the appropriate number of dots, creating a modular and organized Morse code representation.
 
-FunctionalProgramming4: 
+FunctionalProgramming4: This Arduino program utilizes the Serial communication interface and the built-in LED to repeatedly print the message "I like Brasil" 
+to the serial monitor every second.
+
+FunctionalProgramming5: 
