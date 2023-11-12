@@ -17,4 +17,7 @@ Delays for 1500 milliseconds (1.5 seconds) before repeating the loop.
 MORSECODE Explanation: The Morse code representation is done through the duration of LED on/off states, where dots are short pauses and dashes are longer pauses.
 The sequence loops continuously in the loop function, repeatedly spelling "ALVARO" in Morse code with appropriate pauses between letters.
 
-FunctionalProgramming1 Explanation: 
+FunctionalProgramming1 Explanation: The program uses the morseDot and morseDash functions to modularize the code and simplify the representation of dots and dashes.
+The sequence loops continuously in the loop function, repeatedly spelling "ALVARO" in Morse code with appropriate pauses between letters.
+
+FunctionalProgramming2 Explanation: 
