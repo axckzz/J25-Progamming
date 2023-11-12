@@ -23,4 +23,7 @@ The sequence loops continuously in the loop function, repeatedly spelling "ALVAR
 FunctionalProgramming2 Explanation: This program organizes the Morse code representation into separate functions for each letter, enhancing code readability 
 and maintainability. The loop continuously spells "ALVARO" in Morse code using the built-in LED, with appropriate pauses between letters.
 
-FunctionalProgramming3: 
+FunctionalProgramming3: This program enhances code reusability by introducing a function (morseBlink) to handle the blinking logic. 
+Each letter function then calls this common function with the appropriate number of dots, creating a modular and organized Morse code representation.
+
+FunctionalProgramming4: 
