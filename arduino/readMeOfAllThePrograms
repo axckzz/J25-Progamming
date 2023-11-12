@@ -14,4 +14,7 @@ The ASCII art represents a simple image.
 Adds new lines for spacing.
 Delays for 1500 milliseconds (1.5 seconds) before repeating the loop.
 
+MORSECODE Explanation: The Morse code representation is done through the duration of LED on/off states, where dots are short pauses and dashes are longer pauses.
+The sequence loops continuously in the loop function, repeatedly spelling "ALVARO" in Morse code with appropriate pauses between letters.
+
 
