@@ -35,4 +35,7 @@ Each letter is represented by a combination of dots and dashes, and the forward 
 CookingSystem.1 Explanation:  For this program to work as expected, you need to enter strings into the serial monitor, and one of the recognized commands is "cook." 
 Other commands or actions can be added to the decide function based on your application's requirements.
 
-CookingSystem.2 Explanation:
+CookingSystem.2 Explanation: This is a simplified simulation, and the conditions for making a Spanish Omelette might not align with a real cooking scenario. 
+The purpose is to demonstrate basic control flow and variable manipulation based on user input.
+
+CookingSystem.3 Explanation: 
