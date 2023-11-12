@@ -23,9 +23,7 @@
 ---
 
 **FunctionalProgramming1 Explanation:** This program uses the morseDot and morseDash functions to modularize the code and simplify the representation of dots and dashes. The sequence loops continuously in the loop function, repeatedly spelling "ALVARO" in Morse code with appropriate pauses between letters. 
-:::info
-The last part as the MORSECODE. 
-:::
+
 
 ---
 
