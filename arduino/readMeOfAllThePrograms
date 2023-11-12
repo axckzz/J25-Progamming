@@ -20,4 +20,7 @@ The sequence loops continuously in the loop function, repeatedly spelling "ALVAR
 FunctionalProgramming1 Explanation: The program uses the morseDot and morseDash functions to modularize the code and simplify the representation of dots and dashes.
 The sequence loops continuously in the loop function, repeatedly spelling "ALVARO" in Morse code with appropriate pauses between letters.
 
-FunctionalProgramming2 Explanation: 
+FunctionalProgramming2 Explanation: This program organizes the Morse code representation into separate functions for each letter, enhancing code readability 
+and maintainability. The loop continuously spells "ALVARO" in Morse code using the built-in LED, with appropriate pauses between letters.
+
+FunctionalProgramming3: 
