@@ -593,8 +593,15 @@ if(input=="bordeDeLaTarta"){
 ```
 ---
 
-**CookingSystem.4 Explanation:** Add more than 1 recipee. Add inventory system.
+**CookingSystem.4 Explanation:** 
 ```c++
+//first of all these are the variable declarations for the ingredients of the tuna omelette. The data types have been adjusted to match the specific ingredients.
+//the setup function is executed once at the beginning of the program. It is used to set up the environment, such as initializing serial communication and presenting initial messages to the user.
+//here, the conditions have been modified to check whether the user wants to cook toasts, a tuna omelette, or view the inventory. Additionally, conditions have been added to buy or add ingredients to the inventory.
+//then checks if there are enough ingredients to cook toasts. If so, it displays a cooking message and reduces the quantity of ingredients in the inventory. If there are not enough ingredients, it displays a message indicating which ingredients are missing.
+//similar to cookToasts, then checks if there are enough ingredients to cook a tuna omelette and performs the corresponding actions.
+//then shows the current quantity of each ingredient in the inventory.
+//although not explicitly written in the provided code, the main loop runs indefinitely to handle user input and perform corresponding actions.
 int eggs = 0;
 int toasts = 0;
 bool oil = false;
