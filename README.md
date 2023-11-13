@@ -18,7 +18,7 @@
 --- 
 
 ## :notebook: First quarter notes!
-1. [Tema1](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/Tema1Notes.md)
-2. [Tema2](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/Tema2Notes.md)
+[Tema1](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/Tema1Notes.md)
+[Tema2](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/Tema2Notes.md)
 
 ---
