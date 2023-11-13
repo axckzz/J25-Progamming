@@ -9,6 +9,7 @@
 - **Boilerplate** = In computer programming, boilerplate code, or simply boilerplate, are sections of code that are repeated in multiple places with little to no variation.
 - **Arrays**: Arrays are containers that hold variables; they're used to group together similar variables. You can think of arrays like shelves at a pet store. The array would be the shelf, and the animals in cages are the variables inside.
 - **Bit**: The individual 1's and 0's you see in binary are called bits.
+  
   ---
 
 :speech_balloon: **Programming general thinks you must know!**
