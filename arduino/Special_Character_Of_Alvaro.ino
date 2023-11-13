@@ -6,19 +6,19 @@ Serial.begin(9600);
 void loop() {
   // put your main code here, to run repeatedly:
 Serial.println("### This is my new Special Message! ###");
-Serial.println(░░░░░░░░░░░▄▄);
-Serial.println(░░░░░░░░░░█░░█);
-Serial.println(░░░░░░░░░░█░░█);
-Serial.println(░░░░░░░░░█░░░█);
-Serial.println(░░░░░░░░█░░░░█);
-Serial.println(██████▄▄█░░░░░██████▄);
-Serial.println(▓▓▓▓▓█░░░░░░░░░░░░░░█);
-Serial.println(▓▓▓▓▓█░░░░░░░░░░░░░░█);
-Serial.println(▓▓▓▓▓█░░░░░░░░░░░░░░█);
-Serial.println(▓▓▓▓▓█░░░░░░░░░░░░░░█);
-Serial.println(▓▓▓▓▓█░░░░░░░░░░░░░░█);
-Serial.println(▓▓▓▓▓█████░░░░░░░░░█);
-Serial.println(█████▀░░░░▀▀██████▀);
+Serial.println("░░░░░░░░░░░▄▄");
+Serial.println("░░░░░░░░░░█░░█");
+Serial.println("░░░░░░░░░░█░░█");
+Serial.println("░░░░░░░░░█░░░█");
+Serial.println("░░░░░░░░█░░░░█");
+Serial.println("██████▄▄█░░░░░██████▄");
+Serial.println("▓▓▓▓▓█░░░░░░░░░░░░░░█");
+Serial.println("▓▓▓▓▓█░░░░░░░░░░░░░░█");
+Serial.println("▓▓▓▓▓█░░░░░░░░░░░░░░█");
+Serial.println("▓▓▓▓▓█░░░░░░░░░░░░░░█");
+Serial.println("▓▓▓▓▓█░░░░░░░░░░░░░░█");
+Serial.println("▓▓▓▓▓█████░░░░░░░░░█");
+Serial.println("█████▀░░░░▀▀██████▀";
 Serial.println("\n\n\n\n\n\n\n\n\n\n");
 delay(1500);
 }
