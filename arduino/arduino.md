@@ -6,6 +6,10 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/BlinkVariations.ino
 
 ---
 
+## **BlinkVariation2 Explanation:** 
+The same as in variation 1, but there's more blinks and they blink much faster.
+
+
 ## **Special_Character_Of_Alvaro Explanation:** 
 
 **Problem:** In this program i had a problem the first time, the problem was that i dind't put quotation marks on the Serial.println. I'm going to show you the problem.❌
