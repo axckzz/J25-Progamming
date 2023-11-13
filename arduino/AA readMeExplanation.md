@@ -1,6 +1,6 @@
 # :rocket: **Explanations about my programs!**
 **BlinkVariations Explanation:** This Arduino code initializes the onboard LED pin, turns the LED on for 2 seconds, turns it off for 1 second in the setup function,and then creates a continuous loop in the loop function, where the LED flashes for 0.5 seconds and turns off. turns off for 0.5 seconds.
-BlinksVariations [BlinksVariations]([https://duckduckgo.com](https://github.com/axckzz/J25-Progamming/blob/main/arduino/BlinkVariations.ino)).
+[BlinksVariations]([https://duckduckgo.com](https://github.com/axckzz/J25-Progamming/blob/main/arduino/BlinkVariations.ino]).
 
 ---
 
