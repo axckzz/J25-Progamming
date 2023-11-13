@@ -8,9 +8,9 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/BlinkVariations.ino
 
 ## **Special_Character_Of_Alvaro Explanation:** 
 
-**Problem:** In this program i had a problem the first time, the problem was that i dind't put quotation marks on the Serial.println. I'm going to show you the problem. ⚠️
+**Problem:** In this program i had a problem the first time, the problem was that i dind't put quotation marks on the Serial.println. I'm going to show you the problem.❌
 
-**Solution:** the solution is to put the quotation marks in the Serial.println.
+**Solution:** the solution is to put the quotation marks in the Serial.println.✅
 
 ![Error](https://github.com/axckzz/J25-Progamming/assets/144990882/ac4ec7ff-1f56-41f4-b08e-bd99a86acd32)
 
