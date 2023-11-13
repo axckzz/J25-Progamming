@@ -251,7 +251,8 @@ If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
 1. *Global Scope* (Fuera de todo)
 2. *Local Scope* (Dentro)
 
-![bloque-ejemplo-scope-js.png](https://hackmd.io/_uploads/HkKXOtU7p.png)
+
+![download](https://github.com/axckzz/J25-Progamming/assets/144990882/4e1f2d0a-d4cc-4925-b1a8-f19b3418796b)
 
 
 --- 
