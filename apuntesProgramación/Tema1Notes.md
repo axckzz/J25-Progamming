@@ -12,6 +12,7 @@
 - **Coding languages** = Computers use coding languages to understand what people want them to do. Just like how people communicate with each other in English or Italian, people communicate with computers in languages like C++ or Python.
 - **Integrated Development Environment** = Software such as Arduino is known as an Integrated Development Environment (IDE), which is where you type your code and run your programs. Basically, an IDE is software that makes coding simpler.
   
+  
   ---
 
 :speech_balloon: **Programming general thinks you must know!**
