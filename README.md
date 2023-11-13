@@ -24,7 +24,7 @@
 
 ---
 
-## Projects of Arduino!
+## :speech_balloon: Projects of Arduino!
 
 - [Projects](https://github.com/axckzz/J25-Progamming/tree/main/arduino)
 
