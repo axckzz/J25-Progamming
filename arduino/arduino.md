@@ -9,6 +9,10 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/BlinkVariations.ino
 ## **BlinkVariation2 Explanation:** 
 The same as in variation 1, but there's more blinks and they blink much faster.
 
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/BlinkVariations2.ino
+
+---
+
 
 ## **Special_Character_Of_Alvaro Explanation:** 
 
