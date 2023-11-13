@@ -602,6 +602,7 @@ if(input=="bordeDeLaTarta"){
 //similar to cookToasts, then checks if there are enough ingredients to cook a tuna omelette and performs the corresponding actions.
 //then shows the current quantity of each ingredient in the inventory.
 //although not explicitly written in the provided code, the main loop runs indefinitely to handle user input and perform corresponding actions.
+
 int eggs = 0;
 int toasts = 0;
 bool oil = false;
