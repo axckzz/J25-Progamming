@@ -8,6 +8,11 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/BlinkVariations.ino
 
 ## **Special_Character_Of_Alvaro Explanation:** 
 
+In this program i had a problem the first time, the problem was that i dind't put quotation marks on the Serial.println. I'm going to show you the problem. ⚠️
+
+![Error](https://github.com/axckzz/J25-Progamming/assets/144990882/ac4ec7ff-1f56-41f4-b08e-bd99a86acd32)
+
+
 - void setup() Function:
 
 *Initializes serial communication with a baud rate of 9600, allowing communication between the Arduino and the connected computer through the serial monitor.*
