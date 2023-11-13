@@ -252,9 +252,6 @@ If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
 2. *Local Scope* (Dentro)
 
 
-![download](https://github.com/axckzz/J25-Progamming/assets/144990882/4e1f2d0a-d4cc-4925-b1a8-f19b3418796b)
-
-
 --- 
 # String()
 **Strings** = Cadena de caracteres.
