@@ -397,3 +397,45 @@ cook();
 if(input=="potato"){potato++;}}
 }
 ```
+---
+
+**Loops and iterations**
+- Repeat*
+- Atention: PSEUDOCODE
+```c++           
+eggs>0
+do while (Condition) {
+takeEgg();
+breakEgg();
+throwGarbage();
+}
+whisk();
+```
+---
+
+**Infinite loop**
+```c++
+do while (true) {
+climbMountainWithBalder();
+seeHowTheBalderFalls();
+goBarkToTheBottomOfTheMountain();
+}
+```
+---
+**C++  Syntaxis**
+- while(condition){
+___
+___
+___
+}
+
+**“Discord App”**
+```c++
+while(notConnected){
+tryToConnect();
+}
+if(¡notConnected)
+}
+loadMessages();
+}
+```
