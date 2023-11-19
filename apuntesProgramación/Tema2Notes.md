@@ -199,8 +199,8 @@ default:
 2. ¡= Different value
 3. < Lesser than
 4. <= Lesser or equal than
-5. > Greater than
-6. >= Greater or equal than
+5. ">" Greater than
+6. ">=" Greater or equal than
 --- 
 **COMBO BURGER (boolean operators)**
 
@@ -250,9 +250,26 @@ If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
 **Types of Scope**
 1. *Global Scope* (Fuera de todo)
 2. *Local Scope* (Dentro)
+---
+## Global Scope
+Variables declared outside any function or block have global scope. They can be accessed from any part of the program, including within functions and blocks.
+```C++
+int globalVariable = 10;  // Global variable
+void setup(){
+//code
+}
+```
+## Local Scope
+Variables declared within a function or block have local scope. They are only accessible within that specific function or block.
+```C++
+void setup(){
+  // Local variable
+  int localVar = 20;
+  // localVar is only accessible within this block
+}
+```
+---
 
-
---- 
 # String()
 **Strings** = Cadena de caracteres.
 
