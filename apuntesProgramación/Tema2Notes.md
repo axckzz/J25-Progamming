@@ -251,21 +251,29 @@ If(TRdelivered && meanGrade >= 5 && allFinalTestPassed)
 1. *Global Scope* (Fuera de todo)
 2. *Local Scope* (Dentro)
 ---
-## Global Scope
-Variables declared outside any function or block have global scope. They can be accessed from any part of the program, including within functions and blocks.
+### Global Scope
+Global scope refers to variables declared outside of any block or function. Anywhere in the program, including functions and blocks, can access them.
+
 ```C++
-int globalVariable = 10;  // Global variable
-void setup(){
-//code
+// Variable global
+int globalVariable = 10;
+
+int main() {
+    // Acceso a la variable global desde cualquier parte del programa
+
+    return 0;
 }
 ```
-## Local Scope
-Variables declared within a function or block have local scope. They are only accessible within that specific function or block.
+### Local Scope
+Local scope applies to variables declared inside functions or blocks. They can only be accessed within that particular block or function.
 ```C++
-void setup(){
-  // Local variable
-  int localVar = 20;
-  // localVar is only accessible within this block
+int main() {
+    // Variable local
+    int localVariable = 5;
+
+    // Solo es válida dentro de esta función
+   
+    return 0;
 }
 ```
 ---
