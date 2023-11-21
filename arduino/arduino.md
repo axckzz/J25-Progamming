@@ -143,7 +143,7 @@ This code first establishes serial communication and solves drawing problems for
 
 ## **Problem Solver Variation 2 Explanation:**
 
-To don't put the number 17 we use an 'if' function. To put a condition.
+To skip the number 17 we use an 'if' function. To put a condition.
 
 ## **Problem Solver Variation 3 Explanation:**
 
