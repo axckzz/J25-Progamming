@@ -158,8 +158,8 @@ This code first establishes serial communication, and then it solves drawing pro
 
 ## **Problem Solver 3 Explication:**
 
-The program uses a for loop to iterate from 1 to 100 ```c++ (for (int numeroProblema = 1; numeroProblema <= 100; ++numeroProblema)).```
-Inside the loop, it checks if the current number numeroProblema is a multiple of 7 ```c++ (if (numeroProblema % 7 == 0)).```
+The program uses a for loop to iterate from 1 to 100 ```(for (int numeroProblema = 1; numeroProblema <= 100; ++numeroProblema)).```
+Inside the loop, it checks if the current number numeroProblema is a multiple of 7 ```(if (numeroProblema % 7 == 0)).```
 If the condition is true, it prints the solution for the current problem.
 
 https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_3
