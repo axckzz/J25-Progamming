@@ -21,8 +21,13 @@
 
 - [Tema1](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/Tema1Notes.md)
 - [Tema2](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/Tema2Notes.md)
-- [Parameters and Problem Solver](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/ParametersAndProblemSovers.md)
+
 ---
+
+## 📔 Second quarter notes!
+- [Parameters and Problem Solver](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/ParametersAndProblemSovers.md)
+
+  ---
 
 ## :speech_balloon: Projects of Arduino!
 
