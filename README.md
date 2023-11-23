@@ -4,7 +4,7 @@
 - [Teacher Repository](https://github.com/d-prieto/J25-Programming)
 
 ## Images
-![alt text](https://upload.wikimedia.org/wikipedia/commons/1/14/Quincy_Promes_in_2022.jpg)
+![alt text]([https://upload.wikimedia.org/wikipedia/commons/1/14/Quincy_Promes_in_2022.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dspanish%26id%3D2948564018&psig=AOvVaw2ZsqehedEBzVbaEX-bvpHZ&ust=1700811437325000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiY0b3O2YIDFQAAAAAdAAAAABAE))
 
 ## 👥 List of Classmates
 - [Albert Renart](https://github.com/albertrenart/J25-programming)
