@@ -123,7 +123,7 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/CookingSystem_4.ino
 This Arduino code initializes a variable to track problem numbers and establishes serial communication.
 Then starts a loop that calls the resolverProblemaDibujo function repeatedly to solve drawing problems numbered 1 through 30.
 
-https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solve_1.ino
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_1.ino
 
 ---
 
