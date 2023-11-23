@@ -123,7 +123,7 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/CookingSystem_4.ino
 This Arduino code initializes a variable to track problem numbers and establishes serial communication.
 Then starts a loop that calls the resolverProblemaDibujo function repeatedly to solve drawing problems numbered 1 through 30.
 
-https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_1
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solve_1
 
 ---
 
@@ -133,7 +133,7 @@ The resolverProblemaDibujo function is called for each iteration of the for loop
 
 In this program we use "for" instead of "while".
 
-https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_2
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solve_2
 
 ---
 
@@ -162,7 +162,7 @@ The program uses a for loop to iterate from 1 to 100 ```(for (int numeroProblema
 Inside the loop, it checks if the current number numeroProblema is a multiple of 7 ```(if (numeroProblema % 7 == 0)).```
 If the condition is true, it prints the solution for the current problem.
 
-https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_3
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solve_3
 
 ---
 
@@ -172,6 +172,6 @@ Similar to the first program, it uses a for loop to iterate from 1 to 100.
 It calculates the last digit of the current number numeroProblema using numeroProblema % 10.
 If the last digit is 6 or 3, it prints the solution for the current problem.
 
-https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_4
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solve_4
 
 ---
