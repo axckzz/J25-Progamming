@@ -4,7 +4,7 @@
 - [Teacher Repository](https://github.com/d-prieto/J25-Programming)
 
 ## Images
-![alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dspanish%26id%3D2948564018&psig=AOvVaw2ZsqehedEBzVbaEX-bvpHZ&ust=1700811437325000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiY0b3O2YIDFQAAAAAdAAAAABAE])
+![alt text]([https://i0.wp.com/insider-gaming.com/wp-content/uploads/2023/07/blue-gem-karambit.jpg?resize=1024%2C576&ssl=1])
 
 ## 👥 List of Classmates
 - [Albert Renart](https://github.com/albertrenart/J25-programming)
