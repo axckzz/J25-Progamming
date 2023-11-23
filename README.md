@@ -4,7 +4,8 @@
 - [Teacher Repository](https://github.com/d-prieto/J25-Programming)
 
 ## Images
-![steamuserimages-a akamaihd](https://github.com/axckzz/J25-Progamming/assets/144990882/dfbdfd5d-dc8c-488a-afb6-5440ccb52072)
+![235805674_4735821189789405_2799574120569374933_n](https://github.com/axckzz/J25-Progamming/assets/144990882/e08fec09-ad09-4eba-b52e-f0f8ba17d8ab)
+
 
 
 ## 👥 List of Classmates
