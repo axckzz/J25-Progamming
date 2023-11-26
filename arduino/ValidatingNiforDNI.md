@@ -1,6 +1,8 @@
 The NIF has a total length of nine characters. The NIF contains eight numerical digits (from zero to nine) and a last check digit. The check digit of the NIF is one of most of the letters of the alphabet (from "A" to "Z") except for some of them, which are never used.
 
-This is a Code to Validate the DNI i have some problems that i would like to resolve in class about the code:
+### This is a Code to Validate the DNI i have some problems that i would like to resolve in class about the code:
+
+```c++
 String checkNIF(const String &nif) {
     String cleanedNIF = nif;
     cleanedNIF.toUpperCase();
@@ -56,9 +58,11 @@ void loop() {
 
     delay(1000); // Delay for readability
 }
+```
 
-Thanks of this code i found:
+### Thanks of this code i found:
 
+```python
 import re
 def checkNIF(nif):
     nif = re.sub('[_\W\s]+','',nif.upper())
@@ -78,4 +82,4 @@ def checkNIF(nif):
             (nif[0] in 'CDFGJUV' and (nif[8]=='JABCDEFGHI'[c] or nif[8]==str(c))) ):
             return 'ESP' if re.search('^[KLM]',nif) else 'CIF'
     return False
-
+```
