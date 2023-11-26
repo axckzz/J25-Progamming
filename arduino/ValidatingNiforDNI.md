@@ -1,4 +1,32 @@
-The NIF has a total length of nine characters. The NIF contains eight numerical digits (from zero to nine) and a last check digit. The check digit of the NIF is one of most of the letters of the alphabet (from "A" to "Z") except for some of them, which are never used.
+### DNI Structure:
+
+- A DNI consists of eight numeric digits, followed by a single alphabetical character.
+- The numeric digits contain information about the individual's birthdate and place of birth.
+- The alphabetical character serves as a verification letter.
+
+### Calculation of the Verification Letter:
+
+- The verification letter is determined based on the numeric digits of the DNI.
+- The numeric digits are treated as a number, and the remainder of dividing this number by 23 is calculated.
+- The resulting number corresponds to a specific letter in the sequence "TRWAGMYFPDXBNJZSQVHLCKE," which is used as the verification letter.
+
+### Example:
+
+- Let's say the numeric part of a DNI is 12345678. The remainder of dividing 12345678 by 23 is 4.
+- In the sequence "TRWAGMYFPDXBNJZSQVHLCKE," the fourth letter is "G."
+- Therefore, the complete DNI would be 12345678G.
+
+### Validation:
+
+- To validate a DNI, you can follow the same process in reverse.
+- Take the numeric part of the DNI and calculate the verification letter.
+- Compare the calculated verification letter with the actual one. If they match, the DNI is considered valid.
+
+### Special Cases:
+
+- Certain DNIs may have specific rules for particular numeric ranges or specific letters in the numeric part.
+
+---
 
 ### This is a Code to Validate the DNI i have some problems that i would like to resolve in class about the code:
 
