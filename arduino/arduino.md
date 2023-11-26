@@ -175,3 +175,12 @@ If the last digit is 6 or 3, it prints the solution for the current problem.
 https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solve_4.ino
 
 ---
+
+## **Problem Solver 5 Explication:**
+
+It uses a for loop to iterate from 1 to 100.
+Checks each digit of each number.
+And prints the numbers that contain the digit 3.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solve_5.ino
+
