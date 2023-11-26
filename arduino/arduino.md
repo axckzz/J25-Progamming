@@ -194,3 +194,14 @@ If the condition is true, the number is printed.
 https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_6_Odd_Or_MultipleOfSix.ino
 
 ---
+
+## **Problem Solver 7 Explication:**
+
+It uses a for loop to iterate from 1 to 100.
+The digitSum function takes an integer as an argument and returns the sum of its digits. It uses a while loop to extract each digit and add it to the sum.
+For each number, it calculates the sum of its digits using the digitSum function. 
+If the sum is either 10 or 5, the number is printed.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_7_Sum_5Or10.ino
+
+---
