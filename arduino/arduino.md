@@ -184,3 +184,13 @@ And prints the numbers that contain the digit 3.
 
 https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_5.ino
 
+---
+## **Problem Solver 6 Explication:**
+
+It uses a for loop to iterate from 1 to 100.
+The condition num % 2 != 0 || num % 6 == 0 is used to check if the number is either odd (num % 2 != 0) or a multiple of 6 (num % 6 == 0).
+If the condition is true, the number is printed.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_6_Odd_Or_MultipleOfSix.ino
+
+---
