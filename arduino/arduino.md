@@ -216,7 +216,7 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/SwapTheFirst2Letters.
 
 ---
 
-##**SwapTheAAnTheI Explication:**
+## **SwapTheAAnTheI Explication:**
 
 The swapAandI function goes through every character in the string, exchanging 'a' with 'i'. The outcome is then displayed after the action is completed.
 
@@ -224,7 +224,7 @@ https://github.com/axckzz/J25-Progamming/blob/main/arduino/SwapTheAAnTheI.ino
 
 ---
 
-##**SubstituteTheSecondBwithaV Explication:**
+## **SubstituteTheSecondBwithaV Explication:**
 
 The substituteBwithV function locates the position of the second 'b' in the string and replaces it with 'v'. The final outcome is then displayed.
 
