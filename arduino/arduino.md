@@ -205,3 +205,15 @@ If the sum is either 10 or 5, the number is printed.
 https://github.com/axckzz/J25-Progamming/blob/main/arduino/Problem_Solver_7_Sum_5Or10.ino
 
 ---
+
+## **SwapTheFirst2Letters Explication:**
+
+The serial communication is initialized and the original string is defined in the setup function.
+If the string has at least two characters, the swapFirstTwoLetters function will swap the first two letters.
+The function takes the original string as input and prints the result.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/SwapTheFirst2Letters.ino
+
+---
+
+
