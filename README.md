@@ -4,7 +4,8 @@
 - [Teacher Repository](https://github.com/d-prieto/J25-Programming)
 
 ## Images
-![235805674_4735821189789405_2799574120569374933_n](https://github.com/axckzz/J25-Progamming/assets/144990882/e08fec09-ad09-4eba-b52e-f0f8ba17d8ab)
+![Diseno-sin-titulo-23](https://github.com/axckzz/J25-Progamming/assets/144990882/40eaccf1-75a8-4b6b-91eb-2d129d270f98)
+
 
 
 
