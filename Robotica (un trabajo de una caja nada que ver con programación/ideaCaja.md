@@ -6,7 +6,8 @@ La caja "Armadura Táctica" está diseñada para los soldados más avanzados y v
 ## **Diseño Exterior:**
 La caja tiene un esquema de color negro con detalles de color blanco. En la parte frontal, hay un logotipo estilizado de un casco táctico junto con una calavera.
 
-![OIG.](https://hackmd.io/_uploads/Syq86pEUT.jpg)
+![upload_208203533a0b01205c826f51e7ac8d7b](https://github.com/axckzz/J25-Progamming/assets/144990882/d1184e81-6f24-4846-81e9-266b2133c0c3)
+
 
 ---
 
