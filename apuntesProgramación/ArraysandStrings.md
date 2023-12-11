@@ -14,6 +14,76 @@ return(tens+units+hundreds==5) || (tens+units+hunderds==10);
 F A T E
 
 - String is an array of characters
+
+## **Arrays with int!** 
+```c++
+Int[] grades={ 5, 7, 9, 7, 6, 8}
+Int sum= 0
+sum = sum + grades[0];
+sum = sum + grades[1];
+sum = sum + grades[2];
+sum 
+sum = sum + grades[5];
+
+int mediaDeLasNotas = sum/6;
+
+
+Int[] grades={ 5, 7, 9, 7, 6, 8}
+Int sum= 0;
+for( int n=0, n<6, n++){
+sum = sum + grades[n];
+}
+
+int mediaDeLasNotas = sum/6;
+
+
+Int[] grades={ 5, 7, 9, 7, 6, 8}
+//calculate max
+Int max = grades[0];
+If(grades[1]>max) {
+max = grades[1]; }
+If(grades[2]>max) {
+max = grades[2]; }
+
+
+Int[] grades={ 5, 7, 9, 7, 6, 8}
+//calculate max
+int max = grades[0]
+for( int i = 1, i<6, i++){
+if( grades[i] > max){
+max = grades[i];
+}
+} 
+
+
+//El mínimo
+int[] grades = {5, 7, 9, 7, 6, 8};
+// Calcular el mínimo
+int min = grades[0];
+if (grades[1] < min) {
+    min = grades[1];
+}
+if (grades[2] < min) {
+    min = grades[2];
+}
+```
+
+- The index of the last element of an array is the number of elements minos one.
+ ---
+## :speech_balloon: Interesting things about a array!
+Arrays &rarr; colecciones estáticas &rarr; no cambian de tamaño.
+Su acceso es rápido.
+Su tamaño de memoria es relativamente reducido.
+
+- Índice (index)
+- Valor (value)
+
+
+Un elemento de un array siempre tendrá un índice entre 0 y n-1 siendo n la longitud del array y un valor
+
+---
+**Arrays**
+
 ```c++
 void setup () {
 Serial.Begin(9600);
