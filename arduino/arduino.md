@@ -231,3 +231,33 @@ The substituteBwithV function locates the position of the second 'b' in the stri
 https://github.com/axckzz/J25-Progamming/blob/main/arduino/substituteTheSecondBwithAv.ino
 
 ---
+
+## **Sonar 1 Explication:**
+
+In the Sonar_1 the number of times the depth has grown is found in this code.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Sonar_1.ino
+
+---
+## **Sonar 2 Explication:**
+
+With this code, we generate an output that indicates the number of times the depth has increased, dropped, and stayed constant.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Sonar_2.ino
+
+---
+
+## **Sonar 3 Explication:**
+
+With this code, we generate an output that says us the number of times the depth has increased, dropped, and stayed constant. Additionally, it informs us of the vertical speed variations the submarine experiences.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Sonar_3.ino
+
+---
+
+## **Sonar 4 Explication:**
+
+With this code, we generate an output that says us the number of times the depth has increased, dropped, and stayed constant. It also reveals the vertical speed variations the submarine experiences. As well as the fastest and slowest possible speeds of the submarine.
+
+https://github.com/axckzz/J25-Progamming/blob/main/arduino/Sonar_4.ino
+---
