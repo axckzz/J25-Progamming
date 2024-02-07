@@ -5,6 +5,7 @@
 ---
 
 ### **🎃 Archivo main.ino**!
+---
 **1️⃣Funciones Principales!**
 
 1. **setup()**: Configura la comunicación serial a 9600 baudios.
