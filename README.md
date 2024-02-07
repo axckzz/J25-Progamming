@@ -29,7 +29,7 @@
 
 ## 📔 Second quarter notes!
 - [Parameters and Problem Solver](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/ParametersAndProblemSovers.md)
-- [Arrays and Strings](https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/ArraysandStrings.md)
+- [Arrays and Strings]((https://github.com/axckzz/J25-Progamming/blob/main/apuntesProgramación/ArraysAndStrings.md))
 
   ---
 
