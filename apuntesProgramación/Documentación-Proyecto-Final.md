@@ -80,3 +80,6 @@ Tambien un error que solucione fue que puse cooking 1 cuando tenia que poner coo
 ---
 ## ​​🏆​**Conclusión final!**
 Me a parecido muy interesante el hecho de su capacidad para reproducir música, traducir palabras a código morse y ejecutar una receta de cocina. Y lo he disfrutado haciendolo que es lo importante.
+![yXMxVz](https://github.com/axckzz/J25-Progamming/assets/144990882/4564183f-8e8e-429e-afde-f447066af9bd)
+
+
