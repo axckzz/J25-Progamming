@@ -73,11 +73,8 @@ public class Main {
 }
 ```
 
-# Tarea clase While java
-```javascript=
-/*
- * Sum from a lowerbound to an upperbound using a while-loop
- */
+# Tareas de deberes del (While)!
+```java
 public class Main {  // Save as "RunningNumberSum.java"
    public static void main(String[] args) {
       final int LOWERBOUND = 9;      // Store the lowerbound
