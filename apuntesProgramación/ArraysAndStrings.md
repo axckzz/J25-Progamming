@@ -1,5 +1,4 @@
-Strings and Arrays
-## 🙂 Important Concepts to know!
+## 🙂 **Important Concepts to know**!
 - **Collection of elements**: Arrays in C++ are collections of elements of the same data type stored in contiguous memory locations.
 - **Index and value**: An element of an array will always have an index between 0 and n-1 being n: the length of the array.
 - **Lenght**: Size of an array; number of elements.
@@ -9,7 +8,7 @@ Strings and Arrays
 - **Memory management**: Memory for arrays is allocated statically or dynamically depending on how they are declared.
 - **Iteration**: Loops are commonly used to iterate through array elements for processing or manipulation.
   
-  # :rocket: **Example of how to do Problem_Solver_Sum10or5!** 
+# :rocket: **Example of how to do Problem_Solver_Sum10or5!** 
 ```c++
 Bool digitsSum10Or5(int n) {
 Int tens = (n/10)%10;
