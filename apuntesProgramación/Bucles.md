@@ -1,7 +1,7 @@
-## 🔄**Loops**
-- "A sequence of instructions that are continually repeated until a certain condition is reached"
+# 🔄**Loops**
+1. "A sequence of instructions that are continually repeated until a certain condition is reached"
 
-These are necessary when writing code involving the same process many times.
+2. These are necessary when writing code involving the same process many times.
 
 **TYPES**
 - While
