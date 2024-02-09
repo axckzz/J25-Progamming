@@ -42,3 +42,28 @@ for(int s = 0; s<15600; s++)
 For("definition of variable";"condition of iteration";"step every time code is executed")
 {code to repeat}
 ```
+---
+
+# 🌀**Tone**
+To produce an audible signal when the Arduino is linked to a speaker.
+
+This is a utility function without any return value.
+
+---
+
+## **Usage:**
+```c++
+tone(pin, frequency)
+```
+```c++
+tone(pin, frequency, duration)
+```
+---
+
+**Pin**: The specific Arduino pin designated for tone generation.
+Frequency: The pitch of the tone in hertz (Tones cannot be lower than 31Hz).
+Duration: The length of the tone in milliseconds (not obligatory).
+
+## **Key Note:**
+
+- When aiming to play various pitches across multiple pins, it's essential to invoke 'noTone()' on one pin before triggering 'tone()' on the subsequent pin.
