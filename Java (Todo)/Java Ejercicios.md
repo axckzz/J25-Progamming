@@ -290,3 +290,45 @@ public class Main {
   
 }
 ```
+---
+
+
+## **Conceptos de clase hoy**!
+
+¿Qué es la abstracción? La cuestión es que el código es más fácil de escribir y comprender.
+
+- Un ejemplo sencillo. Hay dos lápices diferentes (uno azul, otro rojo, de diferentes colores), pero siguen siendo lápices, y eso es importante.
+
+
+
+Hay dos niveles principales de codificación en los programas:
+
+1. Alta Definición: Este tipo está estrechamente relacionado con el lenguaje humano. Oculte detalles técnicos para que la interfaz sea más fácil de entender y usar. Algunos ejemplos de codificación de alto nivel son:
+
+Lenguajes de programación de alto nivel como Python, Java o JavaScript: estos lenguajes facilitan la construcción e interpretación de código.
+
+La interfaz gráfica también tiene funciones avanzadas para conectar aplicaciones. Por ejemplo, botones y listas desplegables.
+
+2. Versión intermedia: En este nivel interactuamos con muchas otras cosas alrededor del dispositivo y el sistema operativo. Algunos ejemplos de eliminación intermedia son:
+
+Lenguaje ensamblador. Es un pequeño lenguaje de programación que describe directamente las instrucciones del procesador y la memoria de la computadora. Aunque el lenguaje de alto nivel es difícil de entender y utilizar, funciona bien con los dispositivos.
+
+- API del sistema operativo. Se trata de interfaces de programación de aplicaciones (API) proporcionadas por el sistema operativo que permiten a los programadores interactuar directamente con el hardware y los componentes del sistema. Esto incluye funciones como gestión de archivos, asignación de memoria y comunicación de claves. También existe el carácter del símbolo del sistema (cmd) en Windows.
+
+
+
+La programación orientada a objetos es un método de interpretación que organiza el código del programa en torno a datos u objetos en lugar de funciones y lógica. Un objeto se puede definir como un dato con propiedades y comportamientos específicos. Lo último que hacemos es tener muchos archivos diferentes para esta pequeña cosa.
+
+"La programación temática se centra en lo que el diseñador quiere controlar, en lugar de lo que necesita ser manipulado." Este enfoque de programación es adecuado para computadoras modificadas grandes y complejas.
+
+Este enfoque de programación también es ideal para el desarrollo colaborativo, donde los proyectos se dividen en grupos, porque cada grupo o individuo puede organizar e interactuar con sus archivos de forma independiente.
+
+¿Qué es una interfaz, incluidas GUI y CLI?
+
+La interfaz es donde el usuario interactúa con la computadora.
+
+Hay dos tipos principales:
+
+- GUI (interfaz gráfica) utiliza elementos visuales como ventanas, iconos, botones, menús y otros elementos de visualización para permitir la interacción y programación del usuario. La GUI es fácil de usar y proporciona una interacción simple y directa mediante operaciones de hacer clic, arrastrar y soltar. Por ejemplo, estas son las características que ves en tu computadora (interfaz de Windows, programas y botones...)
+
+- La CLI (Command Line Interface) es una característica invisible que sólo ellos conocen. Y cómo usarlo. La principal ventaja es que si sabes usarlo correctamente, puedes hacer más cosas correctamente que con una GUI. El hablante se comunica en un tono autoritario. Un ejemplo obvio en Windows es el símbolo del sistema (que se abre si escribe "cmd" en el menú de Windows.
