@@ -263,6 +263,30 @@ public class Main {
       System.out.println("The sum of the integers numbers from " + LOWERBOUND + " to " + UPPERBOUND + " is " + sumIntegers);
    }
 }
+```
+2. Write a program called PrintLeapYears to print all the leap years between AD999 and AD2010. Also print the total number of leap years. (Hints: use a int variable called count, which is initialized to zero. Increment the count whenever a leap year is found.)
 
-2. Write a program called PrintLeapYears to print all the leap years between AD999 and AD2010. Also print the total number of leap years. (Hints: use a int variable called count, which is initialized to zero. Increment the count whenever a leap year is found.) 
+```java
+public class Main {
+  public static void main(String[] args) {
+     final int limiteInferior = 999;
+      final int limiteSuperior = 2010;
+      int counter  = 0;    
+ 
+      int number = limiteInferior;
+      while (number <= limiteSuperior) {
+    
+    if ( number % 4 == 0) 
+         {
+           counter++; 
+      System.out.println(number + "AD");
+         }
+        number++;  // Next number
+      } 
+      // Print the result
+      System.out.println("Total number of leap years " + counter);
+ 
+   }
+  
+}
 ```
