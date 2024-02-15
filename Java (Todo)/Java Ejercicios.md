@@ -238,8 +238,8 @@ public class OddEvenSum {  // Save as "OddEvenSum.java"
 ```
 1. Write a program called ThreeFiveSevenSum to sum all the running integers from 1 and 1000, that are divisible by 3, 5 or 7, but NOT by 15, 21, 35 or 105.
 
-```javascript=
-public class ThreeFiveSevenSum{  // Save as "OddEvenSum.java"
+```java
+public class Main {
    public static void main(String[] args) {
       final int LOWERBOUND = 1;
       final int UPPERBOUND = 1000;
@@ -247,12 +247,11 @@ public class ThreeFiveSevenSum{  // Save as "OddEvenSum.java"
 
       int number = LOWERBOUND;
       while (number <= UPPERBOUND) {
-            // number = LOWERBOUND, LOWERBOUND+1, LOWERBOUND+2, ..., UPPERBOUND for each iteration
-         if (number % 3 == 0 || number % 5 == 0 || number % 7 == 0) {  // si es divisible entre 3, 5 0 7 ...
-         if (number % 15 == 0 || number % 21 == 0 || number % 35 == 0 || number % 105 == 0){
-             
+         if (number % 3 == 0 || number % 5 == 0 || number % 7 == 0) {  
+         if (number % 15 != 0 && number % 21 != 0 && number % 35 != 0 && number % 105 != 0){
+         sumIntegers += number;       
         }
-         sumIntegers += number;    
+          
          }
           
           else {               
@@ -264,8 +263,6 @@ public class ThreeFiveSevenSum{  // Save as "OddEvenSum.java"
       System.out.println("The sum of the integers numbers from " + LOWERBOUND + " to " + UPPERBOUND + " is " + sumIntegers);
    }
 }
-```
-``The sum of the integers numbers from 1 to 1000 is 272066``
 
 2. Write a program called PrintLeapYears to print all the leap years between AD999 and AD2010. Also print the total number of leap years. (Hints: use a int variable called count, which is initialized to zero. Increment the count whenever a leap year is found.) 
 ```
