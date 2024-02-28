@@ -129,7 +129,7 @@ public class OutputExample {
 
 ---
 
-# The Loop Strikes Back
+# The Loop in Java​🐩​
 
 To sum integers from 1 to 3500, utilize a loop in your Java program:
 
