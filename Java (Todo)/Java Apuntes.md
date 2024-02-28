@@ -22,6 +22,7 @@
   
 ![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/86b8b31e-a045-4bdb-9dc4-24a6a75cf7cd)
 
+---
 
 
 ### Java Programs Template💡​
@@ -57,6 +58,7 @@ public class OutputExample {
 ```
 ![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/0305672f-aaf2-4a4f-aafc-3a6af428633e)
 
+---
 
 
 # Programación Orientada a Objetos (OOP)​🥶​
@@ -125,4 +127,46 @@ public class OutputExample {
 ![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/737e13ba-093a-49c4-9ed9-84b9f5f57f23)
 
 
+---
+
+# The Loop Strikes Back
+
+To sum integers from 1 to 3500, utilize a loop in your Java program:
+
+```java
+public class RunningNumberSum {
+    public static void main(String[] args) {
+        final int LOWERBOUND = 1;
+        final int UPPERBOUND = 3500;
+        int sum = 0;
+
+        int number = LOWERBOUND;
+        while (number <= UPPERBOUND) {
+            sum += number;
+            ++number;
+        }
+
+        System.out.println("The sum from " + LOWERBOUND + " to " + UPPERBOUND + " is " + sum);
+    }
+}
+```
+
+## How it Works 🚀
+
+1. **Declare Bounds 🎯:**
+    - Declare two constants `LOWERBOUND = 1` and `UPPERBOUND = 1000` to set the range.
+
+2. **Initialize Accumulator 🔄:**
+    - Initialize `int sum = 0` to accumulate the numbers.
+
+3. **Looping Magic 🔄:**
+    - Utilize a `while` loop to iterate from `LOWERBOUND` to `UPPERBOUND`.
+    - Accumulate each number in the `sum`.
+    - Increment `number` in each iteration.
+
+4. **Print the Result 📊:**
+    - Output the sum from `LOWERBOUND` to `UPPERBOUND`.
+
+
+The program efficiently sums up integers using a loop, demonstrating the elegance of Java's looping constructs. 🌟
 
