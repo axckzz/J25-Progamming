@@ -24,33 +24,39 @@
 
 
 
-## Java Program Template
+### Java Programs Template💡​
 ```java
-  public class Classname {   // Choose a meaningful Classname. Save as "Classname.java"
-   public static void main(String[] args) {  // Entry point of the program
-      // Your programming statements here!!!
-   }
+  public class YourClassName {
+    public static void main(String[] args) {
+        // Your program logic goes here
+
+        // Example: Printing a message
+        System.out.println("Hello, World!");
+    }
 }
 ```
 
-## Output via System.out.println() and System.out.print()
+## Output of System.out.println() and System.out.print()​👀​
 ```java
-public class PrintTest {   // Save as "PrintTest.java"
-   public static void main(String[] args) {
-      System.out.println("Hello world!");       // Advance the cursor to the beginning of next line after printing
-      System.out.println("Hello world again!"); // Advance the cursor to the beginning of next line after printing
-      System.out.println();                     // Print an empty line
-      System.out.print("Hello world!");         // Cursor stayed after the printed string
-      System.out.print("Hello world again!");   // Cursor stayed after the printed string
-      System.out.println();                     // Print an empty line
-      System.out.print("Hello,");
-      System.out.print(" ");                    // Print a space
-      System.out.println("world!");
-      System.out.println("Hello, world!");
-   }
+public class OutputExample {
+    public static void main(String[] args) {
+        // Using println for new line after each statement
+        System.out.println("Hello, World!");
+        System.out.println("This is an example of using System.out.println()");
+        System.out.println(); // Print an empty line
+
+        // Using print to keep the cursor on the same line
+        System.out.print("Hello, ");
+        System.out.print("world!");
+        System.out.println(); // Print an empty line
+
+        // Combining strings in a single println
+        System.out.println("Java Programming " + "is fun!");
+    }
 }
 ```
-![ThisLessonIsForYouJamesGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/dba77db1-a32b-44bf-9037-52aad672e6a9)
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/0305672f-aaf2-4a4f-aafc-3a6af428633e)
+
 
 ## Variable declaration
 - Int: Numbers without decimals
