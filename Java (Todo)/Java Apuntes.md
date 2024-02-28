@@ -110,4 +110,19 @@ public class OutputExample {
 ![image](https://github.com/axckzz/J25-Progamming/assets/144990882/202e7c60-e4d0-4853-b37f-210e515e086b)
 
 
+# Problemas Comunes en OOP❓​
+
+1. **Herencia Excesiva:** Jerarquías profundas.
+2. **Acoplamiento Fuerte:** Dependencias intensas.
+3. **Fragilidad:** Cambios rompen código.
+4. **Rigidez:** Dificultad en cambios.
+5. **Mal Uso de Herencia:** Sustituible por composición.
+6. **Desacoplamiento Insuficiente:** Conexiones fuertes.
+7. **Problemas de Identidad:** Confusión de igualdad.
+8. **Dificultad en Reutilización:** Componentes no diseñados para reutilización.
+
+
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/737e13ba-093a-49c4-9ed9-84b9f5f57f23)
+
+
 
