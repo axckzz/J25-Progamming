@@ -39,6 +39,7 @@
 
 ## 🏜️Java!
 - [Java todo en general](https://github.com/axckzz/J25-Progamming/tree/main/Java%20(Todo))
+- [Apuntes de Java](https://github.com/axckzz/J25-Progamming/blob/main/Java%20(Todo)/Java%20Apuntes.md)
 
 ---
 
