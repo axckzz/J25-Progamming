@@ -1,3 +1,5 @@
+# Explicaciones de los ejercicios de Java!✔️​
+
 ## Triángulo en Java
 
 - El primer bloque de código define una clase llamada `Main`, que calcula el lado faltante de un triángulo rectángulo utilizando el teorema de Pitágoras. Inicializa las variables `catetoB` y `catetoC` con valores dados, calcula la hipotenusa `hipotenusaA` e imprime el resultado.
