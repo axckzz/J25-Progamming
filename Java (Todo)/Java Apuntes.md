@@ -1,4 +1,4 @@
-# Second Term Java🕸️​
+![image](https://github.com/axckzz/J25-Progamming/assets/144990882/1ee779f5-9fb9-40c1-a4ed-5b0097e70cb3)# Second Term Java🕸️​
 ## Important concepts and vocabulary that you have to know!👍🏻​
 - **Class**: Define tipo de objetos.
 - **Static**: Siempre esta en memoria.  
@@ -58,37 +58,46 @@ public class OutputExample {
 ![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/0305672f-aaf2-4a4f-aafc-3a6af428633e)
 
 
-# Programación Orientada a Objetos (OOP)
+
+# Programación Orientada a Objetos (OOP)​🥶​
 
 ## Clases y Objetos
 - **Clase:** Plantilla que define la estructura y comportamiento.
 - **Objeto:** Instancia de una clase con atributos y métodos.
 
-## Encapsulación
-- Agrupa datos y métodos en una unidad (clase).
-- Oculta detalles internos, revelando solo funcionalidades necesarias.
+  ![image](https://github.com/axckzz/J25-Progamming/assets/144990882/e854e0d4-d561-45e2-8d19-b015fe3aff6d)
+
 
 ## Herencia
 - Subclase hereda propiedades y comportamientos de una superclase.
 - Fomenta la reutilización de código y establece jerarquías.
 
-## Polimorfismo
-- Objetos de diferentes clases se tratan como objetos de una clase base.
-- Incluye sobrecarga y sobreescritura de métodos.
+  ![image](https://github.com/axckzz/J25-Progamming/assets/144990882/c1ae31b3-9e3f-44c0-afc7-1815d3718934)
+
 
 ## Abstracción
 - Simplifica sistemas modelando propiedades y comportamientos esenciales.
 - Enfoca en "qué" hace un objeto en lugar de "cómo".
 
+  ![image](https://github.com/axckzz/J25-Progamming/assets/144990882/d26385b8-5845-4393-a632-4e6421592004)
+
+
 ## Asociación
 - Representa relaciones entre clases (uno a uno, uno a muchos, muchos a muchos).
+
+  ![image](https://github.com/axckzz/J25-Progamming/assets/144990882/83c02f6e-58d9-4fcc-8688-966e50752a85)
+
 
 ## Composición
 - Una clase contiene un objeto de otra clase.
 - Representa una relación de "tiene un".
 
+  ![image](https://github.com/axckzz/J25-Progamming/assets/144990882/82e5e546-f017-4d2e-8e5e-af083601566c)
+
+
 ## Agregación
 - Relación especial de asociación (todo-parte).
+
 
 ## Paso de Mensajes
 - Objetos se comunican enviando mensajes.
@@ -97,4 +106,8 @@ public class OutputExample {
 ## Interfaces
 - Define contrato con un conjunto de métodos.
 - Permite herencia múltiple y reduce dependencias.
+
+![image](https://github.com/axckzz/J25-Progamming/assets/144990882/202e7c60-e4d0-4853-b37f-210e515e086b)
+
+
 
