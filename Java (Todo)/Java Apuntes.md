@@ -170,6 +170,9 @@ public class RunningNumberSum {
 
 The program efficiently sums up integers using a loop, demonstrating the elegance of Java's looping constructs. 🌟
 
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/0ff31709-03d9-4784-b517-b530c53ba1bc)
+
+
 ---
 
 # Declaración de Variables en Java 🌟
@@ -199,4 +202,5 @@ int edad; // Declaración sin inicialización
 double pi = 3.14; // Declaración con inicialización
 String mensaje = "¡Hola, soy Álvaro Gil!"; // Tipo de referencia con inicialización
 
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/91af3d0a-217c-4fbf-95f9-f6bfe1ebcd83)
 
