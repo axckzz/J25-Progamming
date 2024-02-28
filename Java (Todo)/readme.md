@@ -33,7 +33,7 @@
 
 5. **Producto de números (While):** Calcula el producto de todos los números desde 1 hasta 10 (inclusive) e imprime el resultado.
 
-   [Codigo](https://github.com/axckzz/J25-Progamming/blob/main/Java%20(Todo)/Java%20Ejercicios.md)
+[Codigo](https://github.com/axckzz/J25-Progamming/blob/main/Java%20(Todo)/Java%20Ejercicios.md)
    
 
 ---
