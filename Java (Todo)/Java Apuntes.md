@@ -1,4 +1,4 @@
-![image](https://github.com/axckzz/J25-Progamming/assets/144990882/1ee779f5-9fb9-40c1-a4ed-5b0097e70cb3)# Second Term Java🕸️​
+# Second Term Java🕸️​
 ## Important concepts and vocabulary that you have to know!👍🏻​
 - **Class**: Define tipo de objetos.
 - **Static**: Siempre esta en memoria.  
