@@ -1,27 +1,27 @@
-# 📕Second Term Java📕
-## 🥸☝Vocabulary and important concepts🥸☝
-- **Class**: Define tipo de objetos
-- **Static**: Siempre esta en memoria  
-- **Public**: Es quien puede acceder (public es todo el mundo), private(solo un numero determinado o alguien en espefico puede acceder) 
-- **Block**: A block is a group of programming statements enclosed by a pair of braces {}.
-- **Case sensitivity**: Case sensitivity means that the programming language distinguishes between uppercase and lowercase letters, treating them as different characters.
-- **PC**: Personal computer 
-- **Interface**: Comunicarse (as a verb)
-- **GUI**: Graphic user interface
-- **CLI**: Interfaz de la línea de comandos
-- **High-level and low level abstraction**: High level is a very general level of abstraction and low level is a very specific abstraction.
-- **Procedural programming**: La programación procedural se centra en la secuencia de instrucciones para resolver problemas, utilizando funciones y control de flujo. El control de flujo se refiere a la gestión de la ejecución de un programa, determinando el orden en que se ejecutan las instrucciones basadas en condiciones y bucles.
-- **Class**: Object in java
+# Second Term Java🕸️​
+## Important concepts and vocabulary that you have to know!👍🏻​
+- **Class**: Define tipo de objetos.
+- **Static**: Siempre esta en memoria.  
+- **Public**: Todo el mundo puede acceder.
+- **Block**: Un bloque es un grupo de declaraciones de programación encerradas por un par de llaves {}.
+- **Case sensitivity**: La sensibilidad entre mayúsculas y minúsculas significa que el lenguaje de programación distingue entre letras mayúsculas y minúsculas, tratándolas como caracteres diferentes.
+- **PC**: Personal computer. 
+- **Interface**: Comunicarse.
+- **GUI**: Graphic User Interface.
+- **CLI**: Interfaz de la línea de comandos.
+- **High-level and low level abstraction**: El nivel alto es un nivel de abstracción muy general y el nivel bajo es una abstracción muy específica.
+- **Procedural programming**: Se centra en secuencias de instrucciones para la resolución de problemas, el uso de funciones y el flujo de control. El control de procesos se refiere a gestionar la ejecución de un programa y determinar el orden de ejecución de las instrucciones en función de condiciones y bucles.
+- **Class**: Objeto en Java.
 - **Refactorize**: Cambiar las variables de un código, para que sea más fácil de leer. 
-- **OOP**: Object-oriented programming is about creating objects that contain both data and methods.
-- **Object**: Un trozo de código que incluye un nombre, una serie de datos y una serie de métodos o funciones o subprogramas a los que podemos llamar. Es una mini librería. 
-- **Pointers and nulls**: Java works with pointers. This means that the variables don’t hold “directly” the data that we are looking for. They have the address (the pointer) of where the data is. If there is no address to any part of the virtual memory the value is null. 
-- **Public**: Defines that we can access this variable outside of the class and the package. 
-- **Final**: means that this value shall not be changed during execution. 
+- **OOP**: Object-oriented programming se trata de crear objetos que contengan tanto datos como métodos.
+- **Object**: Un fragmento de código incluye un nombre, una serie de datos y una serie de métodos o funciones o pequeños programas que podemos llamar. 
+- **Pointers and nulls**: Java trabaja con punteros. Esto significa que las variables no contienen “directamente” los datos que buscamos. Tienen la dirección (el puntero) de donde están los datos. Si no hay una dirección para ninguna parte de la memoria virtual, el valor es nulo.
+- **Final**: Significa que este valor no se cambiará durante la ejecución.
 
 
   
-![LolFunnyGIF](https://github.com/Spaikyjordi/J25-programming-jordi/assets/144990855/3772ce33-0ce3-48bc-a158-3bec616e08e1)
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/86b8b31e-a045-4bdb-9dc4-24a6a75cf7cd)
+
 
 
 ## Java Program Template
