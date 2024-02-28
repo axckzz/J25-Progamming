@@ -202,5 +202,49 @@ int edad; // Declaración sin inicialización
 double pi = 3.14; // Declaración con inicialización
 String mensaje = "¡Hola, soy Álvaro Gil!"; // Tipo de referencia con inicialización
 
-![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/91af3d0a-217c-4fbf-95f9-f6bfe1ebcd83)
+# Declaración de Variables en Java 🌟
+
+## ¿Qué es la Declaración de Variables? 🤔
+- **Definición:** Declarar una variable significa crear un espacio de almacenamiento con nombre para almacenar datos en un programa Java.
+- **Ejemplo de Sintaxis:** `tipoDeDato nombreDeVariable;`
+
+## Tipos de Datos 📊
+- **Tipos Primitivos:**
+    - `int`: Números enteros
+    - `double`: Números de punto flotante de doble precisión
+    - `char`: Caracteres individuales
+    - `boolean`: Valores booleanos (true o false)
+
+- **Tipos de Referencia:**
+    - Objetos y estructuras de datos complejas
+    - Cadenas, arreglos y clases definidas por el usuario
+
+## Inicialización de Variables 🚀
+- **Definición:** Darle a una variable un valor inicial al declararla.
+- **Ejemplo de Sintaxis:** `tipoDeDato nombreDeVariable = valorInicial;`
+
+## Ejemplos:
+```java
+int edad; // Declaración sin inicialización
+double pi = 3.14; // Declaración con inicialización
+String mensaje = "¡Hola, Mundo!"; // Tipo de referencia con inicialización
+```
+
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/c3e9c7af-69bf-4f15-bc17-231f574ed088)
+
+---
+
+##Sitios web por si teneis alguna duda​❔​
+
+- [W3Schools](https://www.w3schools.com/java/default.asp)
+- [Introduction](https://www3.ntu.edu.sg/home/ehchua/programming/java/J1a_Introduction.html)
+- [OOP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+
+  
+
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/bbcf95bb-dc0c-432a-ab99-d7f74bef87f5)
+
+---
+
+
 
