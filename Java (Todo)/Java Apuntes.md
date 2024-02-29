@@ -201,6 +201,7 @@ The program efficiently sums up integers using a loop, demonstrating the eleganc
 int edad; // Declaración sin inicialización
 double pi = 3.14; // Declaración con inicialización
 String mensaje = "¡Hola, soy Álvaro Gil!"; // Tipo de referencia con inicialización
+```
 
 # Declaración de Variables en Java 🌟
 
