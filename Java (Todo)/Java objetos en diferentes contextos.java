@@ -28,3 +28,6 @@ Perfume
   - PersonalizedMessage: String
   - GiftWrapColor: String       //El color del envoltorio
 
+//Inherits -> es el término que hemos hablado hoy en clase y lo he puesto en el trabajo. Significa que por ejemplo clase A es B -> es decir, todo lo de perfume se hereda a Perfume (Daily use) y asi con los otros que tengo.
+  
+  
