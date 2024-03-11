@@ -50,3 +50,14 @@
 
    ---
    
+## Circle Instances
+
+1. The first we have to construct a circle instance with the default option.
+
+2. In the second we have to construct an instance of a circle with radius 5.
+
+3. On the third we need to make an instance of a green circle with a radius of 10.
+
+4. On the fourth we need to make an instance of a greenish-colored circle with a radius of -2.
+
+5. On the fifth we need to construct a circle instance with the default radius set to blue, but with a different color.
