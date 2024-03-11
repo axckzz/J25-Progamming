@@ -26,5 +26,5 @@ Perfume
   - addresseeName: String
   - addresseeLocation: String
   - PersonalizedMessage: String
-  - GiftWrapColor: String      //el color del envoltorio
+  - GiftWrapColor: String       //El color del envoltorio
 
