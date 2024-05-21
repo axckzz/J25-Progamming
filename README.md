@@ -51,6 +51,8 @@
 - [Apuntes de Hardware and Software / Inputs and Outputs](https://github.com/axckzz/J25-Progamming/blob/main/Hardware%20and%20Software/apuntes.md)
 - [Acceso al pdf](https://github.com/axckzz/J25-Progamming/blob/main/Hardware%20and%20Software/Apuntes%20sobre%20los%20inputs%20y%20outputs%20y%20el%20proceso%20de%20montaje%20del%20ordenador.pdf)
 
+---
+
 ## 📝 Third quarter notes!
 - [Apuntes de todo el trimestre (menos la parte del hardware que esta ⬆️](https://github.com/axckzz/J25-Progamming/blob/main/Apuntes%20tercer%20trimestre/Apuntes%20en%20general%20de%20todo%20el%20trimestre.md)
 
