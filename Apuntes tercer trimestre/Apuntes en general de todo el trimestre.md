@@ -194,6 +194,8 @@ Book libro = new Book("Don Quixote", "Cervantes", 680, "89...");
 
 ![Captura de pantalla 2024-05-21 222703](https://hackmd.io/_uploads/HJXnmF9mR.png)
 
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/a3fa6cc4-0048-4c63-8a59-91f9b71790d8)
+
 ## Data Types
 
 ### Defining Data Types
@@ -301,6 +303,8 @@ Book libro = new Book("Don Quixote", "Cervantes", 680, "89...");
 
 ![Captura de pantalla 2024-05-21 223258](https://hackmd.io/_uploads/Bk0zBFqXC.png)
 
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/2a627bd0-2b89-454e-a5df-ea8ae0455a5e)
+
 
 ### CSS
 
@@ -350,6 +354,9 @@ Book libro = new Book("Don Quixote", "Cervantes", 680, "89...");
 
 - **Startup**: Empresas innovadoras (Uber, Airbnb, Google).
 - **Puntocom**: Yahoo, eBay, PayPal.
+
+![giphy](https://github.com/axckzz/J25-Progamming/assets/144990882/f2e61026-fc3c-4f6d-91da-b11901830539)
+
 
 ## Desarrollo Web 💻
 
