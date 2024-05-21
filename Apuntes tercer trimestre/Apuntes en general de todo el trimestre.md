@@ -376,6 +376,16 @@ Book libro = new Book("Don Quixote", "Cervantes", 680, "89...");
 - **DBA (Database Administrator)**: Administrador de bases de datos.
 - **QA (Quality Assurance)**: Aseguramiento de calidad, revisa el software.
 
+### Ejemplos
+- **Web Pizzeria:**
+  - Local -> Test -> PRO
 
+
+- **Generalli:**
+  - Local -> INT -> QA -> PRE -> PRO
+
+
+- **World of Warcraft (WoW):**
+  - Local -> Test -> PRE -> openBeta -> PRO
 ---
 
