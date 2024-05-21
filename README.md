@@ -47,6 +47,10 @@
 
 ---
 
+## 📔 Hardware and Software / Inputs and Outputs!
+- [Apuntes de Hardware and Software / Inputs and Outputs](https://github.com/axckzz/J25-Progamming/blob/main/Hardware%20and%20Software/apuntes.md)
+
+
 ## :speech_balloon: Projects of Arduino!
 
 - [Projects](https://github.com/axckzz/J25-Progamming/tree/main/arduino)
