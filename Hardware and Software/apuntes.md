@@ -176,14 +176,17 @@ Facilita la conexión a Internet. Dependiendo del tipo, puede tener puertos para
 ## Conexiones de Altavoces / Audio 🔊🖥️
 Se conectan en los círculos de los puertos USB.
 
-Bibliografía
-Geeknetic: Fuente de Alimentación
-Ferrovial: Fuente de Alimentación
-Xataka: Memoria RAM
-PC Componentes: Placa Base
-Amazon: CPU
-PC Componentes: Pasta Térmica
-[PC Componentes: Tarjeta Gráfica](https://www.pccomponentes.com)
+Claro, aquí tienes la bibliografía en formato Markdown:
 
+
+## Bibliografía 📚
+
+- [Geeknetic: Fuente de Alimentación](https://www.geeknetic.es/Fuente-De-Alimentacion/que-es-y-para-que-sirve)
+- [Ferrovial: Fuente de Alimentación](https://www.ferrovial.com/es/stem/fuente-de-alimentacion/)
+- [Xataka: Memoria RAM](https://www.xataka.com/basics/memoria-ram-que-sirve-como-mirar-cuanta-tiene-tu-ordenador-movil)
+- [PC Componentes: Placa Base](https://www.pccomponentes.com/que-es-una-placa-base-tipos-instalar)
+- [Amazon: CPU](https://aws.amazon.com/es/what-is/cpu/)
+- [PC Componentes: Pasta Térmica](https://www.pccomponentes.com/cuando-como-cambiar-pasta-termica-pc)
+- [PC Componentes: Tarjeta Gráfica](https://www.pccomponentes.com)
 
 
