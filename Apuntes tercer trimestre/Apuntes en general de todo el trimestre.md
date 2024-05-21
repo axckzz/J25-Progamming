@@ -361,6 +361,7 @@ Book libro = new Book("Don Quixote", "Cervantes", 680, "89...");
 **CGI**->Common Gateway Interface
 
 ![CGI-1](https://hackmd.io/_uploads/BkafLF5QA.png)
+
 (https://www.educba.com/what-is-common-gateway-interface/)
 
 ## Bases de Datos y QA 🗃️
