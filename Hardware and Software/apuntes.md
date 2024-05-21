@@ -176,5 +176,14 @@ Facilita la conexión a Internet. Dependiendo del tipo, puede tener puertos para
 ## Conexiones de Altavoces / Audio 🔊🖥️
 Se conectan en los círculos de los puertos USB.
 
+Bibliografía
+Geeknetic: Fuente de Alimentación
+Ferrovial: Fuente de Alimentación
+Xataka: Memoria RAM
+PC Componentes: Placa Base
+Amazon: CPU
+PC Componentes: Pasta Térmica
+[PC Componentes: Tarjeta Gráfica](https://www.pccomponentes.com)
+
 
 
