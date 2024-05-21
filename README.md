@@ -54,7 +54,7 @@
 ---
 
 ## 📝 Third quarter notes!
-- [Apuntes de todo el trimestre (menos la parte del hardware que esta ⬆️](https://github.com/axckzz/J25-Progamming/blob/main/Apuntes%20tercer%20trimestre/Apuntes%20en%20general%20de%20todo%20el%20trimestre.md)
+- [Apuntes de todo el trimestre (menos la parte del hardware que esta ⬆️)](https://github.com/axckzz/J25-Progamming/blob/main/Apuntes%20tercer%20trimestre/Apuntes%20en%20general%20de%20todo%20el%20trimestre.md)
 
 
 ## :speech_balloon: Projects of Arduino!
