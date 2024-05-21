@@ -122,16 +122,12 @@ Crea una capa entre el procesador y el disipador de calor, mejorando la conducti
 ![450_1000](https://hackmd.io/_uploads/Bkm25dcmC.jpg)
 
 
-
-
 ### Fuente de Alimentación ⚡
 - **¿Qué es?**: Componente esencial que convierte la corriente de la red eléctrica en una forma de energía adecuada para los componentes de un dispositivo electrónico.
 - **Partes que la Componen**: Bobina 🔄, diodo 🔌, condensador 🛢️, disipador 🌬️, microcontrolador 💻.
 
 
 ![fuente-de-poder](https://hackmd.io/_uploads/Hkcv5ucmR.png)
-
-
 
 
 ### Memoria RAM 💾
@@ -152,4 +148,33 @@ Crea una capa entre el procesador y el disipador de calor, mejorando la conducti
 El disco duro es donde se almacenan los datos de una computadora. Los SSDs han surgido como una alternativa más rápida y compacta.
 
 ![download](https://hackmd.io/_uploads/rJAJjuqmR.jpg)
+
+### Tarjeta Gráfica (GPU) 🎨
+Componente que renderiza las imágenes en la pantalla y ofrece visualización de alta calidad. Las GPU realizan cálculos más sencillos pero a mayor velocidad que las CPU.
+
+![download](https://hackmd.io/_uploads/ryoWod9m0.jpg)
+
+
+### Tarjeta PCI 🌐
+Facilita la conexión a Internet. Dependiendo del tipo, puede tener puertos para cable Ethernet o conexión inalámbrica.
+
+![download](https://hackmd.io/_uploads/S1I7sd970.jpg)
+
+
+#### Tipos de Tarjetas de Red
+- **Ethernet**: Utilizan el estándar 8P8C y conectores RJ45.
+- **Token Ring**: Abandonadas por su alto costo.
+- **Arcnet**: Descontinuadas por velocidades de conexión más bajas que Ethernet.
+
+#### Tipos de Puertos
+- **RJ45**: Conexión muy estable.
+- **BNC**: Para cables coaxiales, fácil de conectar y desconectar.
+
+![download](https://hackmd.io/_uploads/r1mSouqXC.jpg)
+
+
+## Conexiones de Altavoces / Audio 🔊🖥️
+Se conectan en los círculos de los puertos USB.
+
+
 
